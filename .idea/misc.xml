@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (json2htnl_converter)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (json2html_test)" project-jdk-type="Python SDK" />
+>>>>>>> 364f9b7a693179b43e0d4c1e688b824891d1c757
 </project>

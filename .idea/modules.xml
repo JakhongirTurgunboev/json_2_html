@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/json2htnl_converter.iml" filepath="$PROJECT_DIR$/.idea/json2htnl_converter.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/json2html_test.iml" filepath="$PROJECT_DIR$/.idea/json2html_test.iml" />
+>>>>>>> 364f9b7a693179b43e0d4c1e688b824891d1c757
     </modules>
   </component>
 </project>
