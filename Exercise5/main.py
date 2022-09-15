@@ -1,5 +1,4 @@
 import json
-
 # Load data from source
 with open("source.json", "r") as f:
     input = json.load(f)
